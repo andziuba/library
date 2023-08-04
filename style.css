@@ -145,7 +145,7 @@ input[type=number] {
 
 @media screen and (max-width: 660px) {
     #container {
-        justify-items: center;
+        justify-content: center;
     }
 }
 
@@ -163,7 +163,7 @@ input[type=number] {
 
     #container {
         display: flex;
-        flex-direction: c;
+        flex-direction: column;
     }
 
     .modal-content {
