@@ -1,3 +1,3 @@
-The Odin Project: Library
+# Library
 
 [View the site](https://andziuba.github.io/library/)
